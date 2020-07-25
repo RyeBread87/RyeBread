@@ -1,0 +1,1 @@
+C:\RyeBread\test\RyeBread.Tests\obj\Debug\RyeBread.Tests.csprojResolveAssemblyReference.cache
