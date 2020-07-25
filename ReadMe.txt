@@ -1,5 +1,5 @@
 
-A simple blog built using following technologies.
+A blog and personal page for Rye Bread, aka Ryan Smith, using the following technologies:
 
 1. ASP.NET MVC 4.0
 2. NHibernate & Fluent NHibernate
@@ -7,4 +7,4 @@ A simple blog built using following technologies.
 4. Ninject
 5. jQuery
 
-To know more, visit http://prideparrot.com/blog/archive/2012/12/how_to_create_a_simple_blog_part1.
+This blog is based on the excellent instructions from http://prideparrot.com/blog/archive/2012/12/how_to_create_a_simple_blog_part1.
