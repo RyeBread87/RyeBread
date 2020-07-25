@@ -1,0 +1,28 @@
+﻿@model RyeBread.Models.SiteStatsModel
+
+<!-- Widget to display latest posts in sidebar -->
+<div class="sidebar">
+    <h3>Site Stats</h3>
+
+    @if (Model.TotalPosts > 0)
+    {
+        <ul>
+            <li class="stats">@Model.TotalPosts posts</li>
+        </ul>
+    }
+    else
+    {
+        <p>No posts!</p>
+    }
+
+    @if (Model.TotalCategories > 0)
+    {
+        <ul>
+            <li class="stats">@Model.TotalCategories categories</li>
+        </ul>
+    }
+    else
+    {
+        <p>No categories!</p>
+    }
+</div>
