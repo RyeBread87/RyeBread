@@ -20,16 +20,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2020 20:10:49</publishTime>
     </File>
     <File Include="bin/App_Code.compiled">
-      <publishTime>07/20/2020 19:11:30</publishTime>
+      <publishTime>08/01/2020 17:32:23</publishTime>
     </File>
     <File Include="bin/App_Code.dll">
-      <publishTime>07/20/2020 19:11:30</publishTime>
+      <publishTime>08/01/2020 17:32:22</publishTime>
     </File>
     <File Include="bin/App_global.asax.compiled">
-      <publishTime>07/20/2020 19:11:30</publishTime>
+      <publishTime>08/01/2020 17:32:23</publishTime>
     </File>
     <File Include="bin/App_global.asax.dll">
-      <publishTime>07/20/2020 19:11:30</publishTime>
+      <publishTime>08/01/2020 17:32:23</publishTime>
     </File>
     <File Include="bin/Elmah.dll">
       <publishTime>04/25/2020 20:10:45</publishTime>
@@ -70,8 +70,11 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/RouteDebugger.dll">
       <publishTime>04/25/2020 20:10:49</publishTime>
     </File>
+    <File Include="bin/RyeBread.Core.dll">
+      <publishTime>08/01/2020 17:32:01</publishTime>
+    </File>
     <File Include="bin/RyeBread.dll">
-      <publishTime>07/20/2020 18:30:53</publishTime>
+      <publishTime>08/01/2020 17:32:01</publishTime>
     </File>
     <File Include="bin/System.Net.Http.Formatting.dll">
       <publishTime>04/25/2020 20:10:46</publishTime>
@@ -130,8 +133,32 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Content/20190903_162822.jpg">
       <publishTime>05/16/2020 18:50:55</publishTime>
     </File>
+    <File Include="Content/A RANK and DENSE_RANK Use Case/filtered_query_with_ranks.png">
+      <publishTime>07/26/2020 16:56:43</publishTime>
+    </File>
+    <File Include="Content/A RANK and DENSE_RANK Use Case/final_query.png">
+      <publishTime>07/26/2020 17:01:10</publishTime>
+    </File>
+    <File Include="Content/A RANK and DENSE_RANK Use Case/max_days_between_orders.png">
+      <publishTime>07/26/2020 16:54:26</publishTime>
+    </File>
+    <File Include="Content/A RANK and DENSE_RANK Use Case/orders.png">
+      <publishTime>07/26/2020 16:52:49</publishTime>
+    </File>
+    <File Include="Content/A RANK and DENSE_RANK Use Case/query_with_ranks.png">
+      <publishTime>07/26/2020 16:55:12</publishTime>
+    </File>
+    <File Include="Content/A RANK and DENSE_RANK Use Case/query_with_ranks_output.png">
+      <publishTime>07/26/2020 16:55:51</publishTime>
+    </File>
+    <File Include="Content/Adding Site Stats in ASP.NET MVC/site_stats.png">
+      <publishTime>07/27/2020 12:43:44</publishTime>
+    </File>
     <File Include="Content/aerial_rye.jpg">
       <publishTime>06/01/2020 14:30:15</publishTime>
+    </File>
+    <File Include="Content/Excel Scorecard/Excel_scorecard.png">
+      <publishTime>07/20/2020 17:31:41</publishTime>
     </File>
     <File Include="Content/Excel_Scorecard/Excel_scorecard.png">
       <publishTime>07/20/2020 17:31:41</publishTime>
@@ -145,8 +172,44 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Content/IMG-20190317-WA0000.jpg">
       <publishTime>05/16/2019 23:48:34</publishTime>
     </File>
+    <File Include="Content/Importing Contacts in Android/contact_edit.jpg">
+      <publishTime>08/01/2020 16:50:07</publishTime>
+    </File>
+    <File Include="Content/Importing Contacts in Android/contact_import.jpg">
+      <publishTime>08/01/2020 17:16:20</publishTime>
+    </File>
+    <File Include="Content/Importing Contacts in Android/contact_select.jpg">
+      <publishTime>08/01/2020 16:51:36</publishTime>
+    </File>
+    <File Include="Content/Importing Contacts in Android/imported_contact.jpg">
+      <publishTime>08/01/2020 16:51:35</publishTime>
+    </File>
+    <File Include="Content/Importing Contacts in Android/main_activity.jpg">
+      <publishTime>08/01/2020 16:50:06</publishTime>
+    </File>
     <File Include="Content/photo.jpg">
       <publishTime>04/25/2020 20:10:04</publishTime>
+    </File>
+    <File Include="Content/Recurring Notifications in Android/call.jpg">
+      <publishTime>08/01/2020 15:46:04</publishTime>
+    </File>
+    <File Include="Content/Recurring Notifications in Android/contact_edit.jpg">
+      <publishTime>08/01/2020 14:11:55</publishTime>
+    </File>
+    <File Include="Content/Recurring Notifications in Android/contact_edit_filled_out.jpg">
+      <publishTime>08/01/2020 14:11:57</publishTime>
+    </File>
+    <File Include="Content/Recurring Notifications in Android/contact_select.jpg">
+      <publishTime>08/01/2020 14:11:54</publishTime>
+    </File>
+    <File Include="Content/Recurring Notifications in Android/main_activity.jpg">
+      <publishTime>08/01/2020 14:11:52</publishTime>
+    </File>
+    <File Include="Content/Recurring Notifications in Android/notification.jpg">
+      <publishTime>08/01/2020 14:11:58</publishTime>
+    </File>
+    <File Include="Content/Recurring Notifications in Android/notification_detail.jpg">
+      <publishTime>08/01/2020 14:12:00</publishTime>
     </File>
     <File Include="Content/RyanSmith_2.jpg">
       <publishTime>05/09/2020 20:53:50</publishTime>
@@ -2075,7 +2138,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2020 20:10:16</publishTime>
     </File>
     <File Include="Content/themes/simple/style.css">
-      <publishTime>07/20/2020 17:05:20</publishTime>
+      <publishTime>07/21/2020 14:32:43</publishTime>
     </File>
     <File Include="Content/Untitled.png">
       <publishTime>05/26/2020 13:21:29</publishTime>
@@ -2090,7 +2153,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/17/2020 21:44:02</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>07/20/2020 19:11:27</publishTime>
+      <publishTime>08/01/2020 17:32:19</publishTime>
     </File>
     <File Include="Scripts/admin.js">
       <publishTime>04/26/2020 13:26:30</publishTime>
@@ -3230,7 +3293,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2020 20:10:45</publishTime>
     </File>
     <File Include="Scripts/tiny_mce/tiny_mce.js">
-      <publishTime>07/20/2020 19:07:21</publishTime>
+      <publishTime>07/21/2020 15:00:10</publishTime>
     </File>
     <File Include="Scripts/tiny_mce/tiny_mce_popup.js">
       <publishTime>04/25/2020 20:10:40</publishTime>
@@ -3257,7 +3320,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2020 20:10:45</publishTime>
     </File>
     <File Include="Views/Blog/Aboutme.cshtml">
-      <publishTime>07/20/2020 17:38:22</publishTime>
+      <publishTime>07/27/2020 14:03:50</publishTime>
     </File>
     <File Include="Views/Blog/Contact.cshtml">
       <publishTime>06/21/2020 16:06:46</publishTime>
@@ -3317,7 +3380,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2020 20:10:45</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>07/20/2020 19:01:30</publishTime>
+      <publishTime>07/25/2020 22:09:51</publishTime>
     </File>
   </ItemGroup>
 </Project>

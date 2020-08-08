@@ -18,3 +18,4 @@ C:\RyeBread\src\RyeBread\RyeBread.Core\bin\Debug\Ninject.Web.Common.pdb
 C:\RyeBread\src\RyeBread\RyeBread.Core\bin\Debug\Ninject.Web.Common.xml
 C:\RyeBread\src\RyeBread\RyeBread.Core\obj\Debug\RyeBread.Core.dll
 C:\RyeBread\src\RyeBread\RyeBread.Core\obj\Debug\RyeBread.Core.pdb
+C:\RyeBread\src\RyeBread\RyeBread.Core\obj\Debug\RyeBread.Core.csprojResolveAssemblyReference.cache

@@ -410,8 +410,7 @@ table tr td
 #search-form  p
 { display: inline-block; }
 
-.small-input {      /*RAS - added*/
-    display:inline;
+.small-input {      /*RAS - added     display:inline;*/
     margin:0px 0px 0px 0px;
 }
 

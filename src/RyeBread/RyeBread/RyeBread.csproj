@@ -171,12 +171,37 @@
     <Content Include="Content\17487669973278110922.jpeg" />
     <Content Include="Content\20190323_172919.jpg" />
     <Content Include="Content\20190903_162822.jpg" />
+    <Content Include="Content\A RANK and DENSE_RANK Use Case\filtered_query_with_ranks.png" />
+    <Content Include="Content\A RANK and DENSE_RANK Use Case\final_query.png" />
+    <Content Include="Content\A RANK and DENSE_RANK Use Case\max_days_between_orders.png" />
+    <Content Include="Content\A RANK and DENSE_RANK Use Case\orders.png" />
+    <Content Include="Content\A RANK and DENSE_RANK Use Case\query_with_ranks.png" />
+    <Content Include="Content\A RANK and DENSE_RANK Use Case\query_with_ranks_output.png" />
+    <Content Include="Content\Adding Site Stats in ASP.NET MVC\site_stats.png" />
     <Content Include="Content\aerial_rye.jpg" />
-    <Content Include="Content\Excel_Scorecard\Excel_scorecard.png" />
+    <Content Include="Content\Importing Contacts in Android\contact_edit.jpg" />
+    <Content Include="Content\Importing Contacts in Android\contact_import.jpg" />
+    <Content Include="Content\Importing Contacts in Android\contact_select.jpg" />
+    <Content Include="Content\Importing Contacts in Android\imported_contact.jpg" />
+    <Content Include="Content\Importing Contacts in Android\main_activity.jpg" />
+    <Content Include="Content\Mental Health Hacks Inspired by Analytics\Graph.png" />
+    <Content Include="Content\Mental Health Hacks Inspired by Analytics\Graph_GoingDown.png" />
+    <Content Include="Content\Mental Health Hacks Inspired by Analytics\Graph_GoingUp.png" />
+    <Content Include="Content\Mental Health Hacks Inspired by Analytics\Treemap_LessHealthy.png" />
+    <Content Include="Content\Mental Health Hacks Inspired by Analytics\Treemap_MoreHealthy.png" />
+    <Content Include="Content\Mental Health Hacks Inspired by Analytics\Treemap.png" />
+    <Content Include="Content\Recurring Notifications in Android\call.jpg" />
+    <Content Include="Content\Excel Scorecard\Excel_scorecard.png" />
     <Content Include="Content\family_beach_dr.jpg" />
     <Content Include="Content\favicon.ico" />
     <Content Include="Content\IMG-20190317-WA0000.jpg" />
     <Content Include="Content\photo.jpg" />
+    <Content Include="Content\Recurring Notifications in Android\contact_edit.jpg" />
+    <Content Include="Content\Recurring Notifications in Android\contact_edit_filled_out.jpg" />
+    <Content Include="Content\Recurring Notifications in Android\contact_select.jpg" />
+    <Content Include="Content\Recurring Notifications in Android\main_activity.jpg" />
+    <Content Include="Content\Recurring Notifications in Android\notification.jpg" />
+    <Content Include="Content\Recurring Notifications in Android\notification_detail.jpg" />
     <Content Include="Content\RyanSmith_2.jpg" />
     <Content Include="Content\ryan_smith.jpg" />
     <Content Include="Content\RyeBread.png" />
@@ -1274,7 +1299,6 @@
     <Content Include="Content\themes\simple\jqueryuicustom\development-bundle\ui.widget.jquery.json" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Content\A RANK and DENSE_RANK Use Case\" />
     <Folder Include="Scripts\tiny_mce\plugins\spellchecker\classes\utils\" />
     <Folder Include="Scripts\tiny_mce\plugins\spellchecker\includes\" />
   </ItemGroup>
