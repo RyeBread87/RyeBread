@@ -4,6 +4,7 @@
     <ProjectView>ProjectFiles</ProjectView>
     <NameOfLastUsedPublishProfile>Default</NameOfLastUsedPublishProfile>
     <UseIISExpress>true</UseIISExpress>
+    <LastActiveSolutionConfig>Release|Any CPU</LastActiveSolutionConfig>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>

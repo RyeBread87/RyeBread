@@ -149,6 +149,6 @@ C:\RyeBread\src\RyeBread\RyeBread\bin\System.Web.WebPages.Razor.xml
 C:\RyeBread\src\RyeBread\RyeBread\bin\NHibernate.xml
 C:\RyeBread\src\RyeBread\RyeBread\bin\FluentNHibernate.xml
 C:\RyeBread\src\RyeBread\RyeBread\bin\Iesi.Collections.xml
-C:\RyeBread\src\RyeBread\RyeBread\obj\Debug\RyeBread.csprojResolveAssemblyReference.cache
 C:\RyeBread\src\RyeBread\RyeBread\obj\Debug\RyeBread.dll
 C:\RyeBread\src\RyeBread\RyeBread\obj\Debug\RyeBread.pdb
+C:\RyeBread\src\RyeBread\RyeBread\obj\Debug\RyeBread.csprojResolveAssemblyReference.cache

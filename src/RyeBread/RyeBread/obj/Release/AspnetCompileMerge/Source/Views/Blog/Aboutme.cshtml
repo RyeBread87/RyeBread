@@ -17,7 +17,7 @@
         <img src="~/Content/rye_bread.jpg" ALIGN="left" />
     </p>
     <p>
-        <span>Rye Bread - aka Ryan Smith - is a technology professional. He's an INFJ-T - it says so <a class="text" href="https://www.16personalities.com/profiles/8e0688538b4ce">here</a>, in case you're interested in that kind of thing. He'll take your anonymous feedback <a class="text" href="https://sayat.me/ryebread">here</a> (or non-anonymously via the Conact page). A sample of his projects & code is in the collapsible sections below.</span>
+        <span>Rye Bread - aka Ryan Smith - is a software developer (mobile / Android). He's an INFJ-T - it says so <a class="text" href="https://www.16personalities.com/profiles/8e0688538b4ce">here</a>, in case you're interested in that kind of thing. He'll take your anonymous feedback <a class="text" href="https://sayat.me/ryebread">here</a> (or non-anonymously via the Conact page). A sample of his projects & code is in the collapsible sections at the bottom of this page.</span>
         <br />
         <br />
         <b>Contact Rye Bread for:</b>
@@ -37,7 +37,7 @@
         <ul class="round">
             <li>Align with his beliefs</li>
             <li>Offer interesting challenges and opportunities for growth & mastery</li>
-            <li>Are shared with a supportive team of like-minded people</li>
+            <li>Are shared with a supportive team of diverse, yet like-minded people</li>
         </ul>
         Rye's technology interests currently include:
         <ul class="round">
@@ -126,7 +126,7 @@
             <div>
             </div>
 
-            <button class="collapsible">EpicCare Inpatient Application Integrity Checks</button>
+            <button class="collapsible">EpicCare Inpatient Application Integrity Checks (Cach&eacute; / MUMPS)</button>
             <div class="content">
                 <ul>
                     <li>Rewrote and expanded code to check the integrity of data structures for EpicCare Inpatient data in customer Cache environments.</li>
@@ -136,7 +136,7 @@
                 </ul>
             </div>
 
-            <button class="collapsible">Extension Search Report Template</button>
+            <button class="collapsible">Extension Search Report Template (Cach&eacute; / MUMPS)</button>
             <div class="content">
                 <ul>
                     <li>Context:</li>
@@ -149,7 +149,7 @@
                 </ul>
             </div>
 
-            <button class="collapsible">Profile Search Report Template</button>
+            <button class="collapsible">Profile Search Report Template (Cach&eacute; / MUMPS)</button>
             <div class="content">
                 <ul class="list-group">
                     <li>Context:</li>
@@ -163,7 +163,7 @@
                 </ul>
             </div>
 
-            <button class="collapsible">Cogito Tune Up</button>
+            <button class="collapsible">Cogito Tune Up (Cach&eacute; / MUMPS, SQL, &amp; C# / Windows Forms)</button>
             <div class="content">
                 <ul class="list-group">
                     <li>Led a team of ten to coordinate the creation of various parts of the project in advance of a deadline, as well as contributing his own development.</li>
@@ -176,7 +176,7 @@
                 </ul>
             </div>
 
-            <button class="collapsible">Inpatient Readmission Registry</button>
+            <button class="collapsible">Inpatient Readmission Registry (Cach&eacute; / MUMPS &amp; SQL)</button>
             <div id="collapse6" class="content">
                 <ul>
                     <li>Context:</li>
@@ -189,19 +189,54 @@
                 </ul>
             </div>
 
-            <button class="collapsible">European Customer Dashboard</button>
+            <button class="collapsible">European Customer Dashboard (Cach&eacute; / MUMPS &amp; C# / Windows Forms)</button>
             <div id="collapse6" class="content">
                 <ul>
                     <li>A Windows Forms application written to query and aggregate data from several data sources and display metrics and status indicators on customer organizations in Europe for leadership to track and review.</li>
                 </ul>
             </div>
 
-            <button class="collapsible">Betelgeuse</button>
+            <button class="collapsible">Betelgeuse (C# / ASP.NET MVC)</button>
             <div class="content">
                 <ul class="list-group">
                     <li>Was the lead developer for an internal Q&A forum similar to Stack Overflow (called "Betelgeuse") using C#, ASP.NET MVC.</li>
                     <li>Migrated the app's data from an old Python-based OSQA platform to the new ASP.NET MVC platform.</li>
                     <li>Implemented several fixes and improvements, including points-based security, "my questions / answers" pages, assignment & ownership capabilities, overhauling of the post ranking algorithm, and data model changes.</li>
+                </ul>
+            </div>
+
+            <button class="collapsible">"On the Way" Notifications (Cach&eacute; / MUMPS &amp; Android)</button>
+            <div class="content">
+                <ul class="list-group">
+                    <li>Developed support for automatic notifications to be sent to patients when a clinician documents that they have begun transport towards a patient's home health appointment.</li>
+                    <li>Previously, patients had no way to be updated of a clinician's departure and estimated arrival time.</li>
+                    <li>This enhancement improved the patient experience by providing transparency related to their appointment's start time.</li>
+                    <li>Developed using in-house e-mail &amp; SMS messenging and time logging APIs.</li>
+                </ul>
+            </div>
+
+            <button class="collapsible">Multiple Media Capture (Android)</button>
+            <div class="content">
+                <ul class="list-group">
+                    <li>Developed a workflow and accessible UI for capturing multiple clinical images and uploading them as a batch.</li>
+                    <li>Previously, users needed to save clinical media one at a time, each requiring a separate entry to the media capture activity.</li>
+                    <li>This enhancement improved the efficiency of clinicians, saving an average of over 12 taps per patient encounter.</li>
+                    <li>Developed using ViewModel, LiveData, WorkManager, AsyncTask, RecyclerView.</li>
+                </ul>
+            </div>
+
+            <button class="collapsible">Offline Wound Image Capture (Android)</button>
+            <div class="content">
+                <ul class="list-group">
+                    <li>Developed support for the ability to capture clinical images of wounds while offline.</li>
+                    <li>Context:</li>
+                    <ul style="padding-left:20px">
+                        <li>Home health and hospice nurses users perform a large portion of their workflows in a disconnected state.</li>
+                        <li>They typically enter the application's offline mode as they start, going online & syncing their work upon return to the office at the end of the day.</li>
+                    </ul>
+                    <li>Previously, users were not able to capture images of wounds while offline. This required users to implement clunky workarounds, such as taking these images on their device's camera roll, emailing them to themselves when online, and then manually importing them after the fact.</li>
+                    <li>After this enhancement, users no longer needed to perform manual after-the-fact workarounds, significantly improving the user experience and saving several minutes of work per patient.</li>
+                    <li>Developed using an in-house offline cache & synchronization framework and serialization & encryption APIs.</li>
                 </ul>
             </div>
 
@@ -366,7 +401,7 @@
                 <h3><strong>Hobby / Blog Posts / Other</strong></h3>
             </header>
 
-            <button class="collapsible">Scorecard Windows Forms App</button>
+            <button class="collapsible">Scorecard Windows Forms App (Windows Forms)</button>
             <div class="content">
                 <ul>
                     <li>Sample app for a blog post outlining how one might use a Windows Forms app with OleDbConnection and ExcelInterop to read data from a data source and & then use the data to generate an Excel-based scorecard.</li>
@@ -375,7 +410,7 @@
                 </ul>
             </div>
 
-            <button class="collapsible">Rye Blog</button>
+            <button class="collapsible">Rye Blog (C# / ASP.NET MVC)</button>
             <div class="content">
                 <ul>
                     <li>This blog! An ASP.NET MVC blog with NHibernate.</li>
@@ -383,7 +418,7 @@
                 </ul>
             </div>
 
-            <button class="collapsible">Contact Import</button>
+            <button class="collapsible">Contact Import (Android)</button>
             <div class="content">
                 <ul>
                     <li>Sample app for a blog post demonstrating how to import and store contacts from an Android device onto your own app using Room & LiveData.</li>
@@ -391,7 +426,7 @@
                 </ul>
             </div>
 
-            <button class="collapsible">Scheduled Recurring Notifications</button>
+            <button class="collapsible">Scheduled Recurring Notifications (Android)</button>
             <div class="content">
                 <ul>
                     <li>Sample app for a blog post demonstrating how to create recurring notifications on a schedule input by users.</li>
@@ -399,7 +434,7 @@
                 </ul>
             </div>
 
-            <button class="collapsible">Owl</button>
+            <button class="collapsible">Owl (Android)</button>
             <div class="content">
                 <ul>
                     <li>An android app - Owl helps you keep in touch with the people in your life.</li>
